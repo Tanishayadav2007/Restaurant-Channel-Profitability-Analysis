@@ -99,7 +99,7 @@ Run the dashboard locally:
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
+https://restaurant-channel-profitability-analysis-smreat6myxcgnysg8p4g.streamlit.app/
 ---
 
 # 📌 Future Improvements
